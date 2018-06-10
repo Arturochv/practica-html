@@ -19,3 +19,6 @@ git push origin otro_branch
 git pull // también actualiza
 
 git branch -a // muestra todos los branches locales y remotos
+git fetch -p // borra los branches que no están en el remoto
+
+http://jlord.us/git-it/challenges/branches_arent_just_for_birds.html
